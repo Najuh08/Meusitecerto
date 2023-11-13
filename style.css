@@ -16,6 +16,6 @@ h1 {
 }
 
 .principal {
-    background: yellow;
+    background: rgba(255, 255, 0, 0.589);
     font-size: 30px;
 }
