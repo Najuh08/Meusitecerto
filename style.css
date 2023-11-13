@@ -1,5 +1,5 @@
 body{
-    background-color: greenyellow;
+    background-color: rgba(172, 255, 47, 0.534);
 }
 
 #hay {
@@ -10,12 +10,12 @@ body{
 }
 
 h1 { 
-    color: rgba(255, 0, 0, 0.733);
+    color: rgba(255, 0, 0, 0.829);
     text-align: center;
     font-size: 50px;
 }
 
 .principal {
-    background: rgba(255, 166, 0, 0.753);
+    background: yellow;
     font-size: 30px;
 }
