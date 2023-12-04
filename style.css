@@ -25,5 +25,14 @@ h1 {
 }
 
 #day {
+    margin-left: 70%;
+    width: 15%;
+    border-radius: 20%;
+    vertical-align: top;
     
+}
+header {
+    padding: 20%;
+    color: aliceblue;
+    font-size: ;
 }
